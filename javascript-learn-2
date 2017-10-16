@@ -1,0 +1,66 @@
+var joke = "Why couldn't the shoes go out and play?
+They were all /*"tied*/" up!";
+console.log(joke);
+
+
+Why couldn't the shoes go out and play?
+They were all "tied" up!
+
+
+
+
+var joke = Why couldn't the shoes go out and play?;
+console.log("They were all tied up!");
+
+
+
+
+console.log("Why couldn't the shoes go out and play?");
+
+
+var haiku = "Blowing from the west" + \t "Fallen leaves gather" + \t"In the east.";
+console.log(haiku);
+
+
+var haiku = "\"Blowing from the west \" + "Fallen leaves gather \" + \"In the east."\";
+console.log(haiku);
+
+
+var haiku = Blowing from the west\n Fallen leaves gather\n In the east.;
+console.log(haiku);
+
+
+--------------------
+https://rootinweb.blogspot.com/2017/06/udacity-intro-to-js-data-types-and.html
+----------------------
+
+-----------------------
+http://www.codermania.com/javascript/lesson/1k/string-operators
+-----------------------
+
+
++++++++++++++++++++++++++
+right answer:
+
+var haiku = "Blowing from the west\n" + "Fallen leaves gather\n" +"In the east.";
+console.log(haiku);
+
+++++++++++++++++++++++++=
+
+
+var signedIn;
+console.log(signedIn);
+
+-----
+
+var signedIn;
+console.log(signedIn);
+
+undefined
+
+undefined
+
+
+var signedIn=1;
+console.log(signedIn);
+
